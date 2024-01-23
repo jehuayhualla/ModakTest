@@ -1,7 +1,7 @@
 # ModakTest
 
 ![Screenshot 1](./assets/screenshot1.png 'Home')
-![Screenshot 2](./assets/screenshot1.png 'Event Detail')
+![Screenshot 2](./assets/screenshot2.png 'Event Detail')
 
 ## Features
 
