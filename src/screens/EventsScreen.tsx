@@ -12,7 +12,7 @@ export type EventsScreenProps = StackScreenProps<RootStackParamList, 'Events'>;
 
 const EventsScreen: React.FC<EventsScreenProps> = () => {
   const {styles} = useStyles(stylesheet);
-  const [limit, setLimit] = useState(20);
+  const [limit, setLimit] = useState(40);
   const {isLoading, isError, data, refetch} = useEvents(limit);
   const insets = useSafeAreaInsets();
 
